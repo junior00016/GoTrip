@@ -1,0 +1,286 @@
+@media screen and (max-width:1240px) {
+    .catalog__nav {
+        flex-wrap: wrap;
+        gap: 80px;
+        justify-content: center;
+    }
+
+}
+
+@media screen and (max-width:1080px) {
+    .banner {
+        height: 760px;
+    }
+
+}
+
+@media screen and (max-width:991px) {
+    .header__title {
+        font-size: 30px;
+    }
+
+    .header__menu {
+        gap: 25px;
+    }
+
+    .menu__item a {
+        font-size: 14px;
+        padding-bottom: 4px;
+
+    }
+
+    .search__text {
+        width: 190px;
+        font-size: 14px;
+    }
+
+    .search__button {
+        width: 65px;
+        font-size: 14px;
+    }
+
+    .banner {
+        height: 700px;
+    }
+
+    .banner__title {
+        font-size: 75px;
+    }
+
+    .banner__text {
+        font-size: 35px;
+        padding: 20px 0 45px 0;
+    }
+
+    .banner_more {
+        font-size: 17px;
+        padding: 13px 75px;
+    }
+
+    .Aboutus {
+        padding: 70px 0 80px;
+
+    }
+
+    .Aboutus__nav {
+        gap: 25px;
+
+    }
+
+
+    .Aboutus__text0 {
+        font-size: 15px;
+
+
+    }
+
+    .Aboutus__text_p {
+        padding: 0 0 10px 0;
+
+    }
+
+    .Aboutus__header {
+        font-size: 30px;
+        padding: 0 0 30px 0;
+    }
+
+    .catalog__h2 {
+        font-size: 30px;
+    }
+
+    .contacts__h2 {
+        font-size: 30px;
+        margin: 0 0 35px;
+    }
+
+    .contacts__p {
+        width: 450px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .header__title {
+        font-size: 25px;
+        font-weight: 500;
+    }
+
+    .header__menu {
+        gap: 20px;
+
+    }
+
+    .menu__item a {
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    .menu__item a {
+        font-size: 13px;
+    }
+
+    .search__text {
+        width: 170px;
+        height: 33px;
+        font-size: 13px;
+    }
+
+    .search__button {
+        width: 65px;
+        height: 33px;
+        font-size: 13px;
+    }
+
+    .search {
+        padding: 33px 0 33px 0;
+    }
+
+    .banner {
+        height: 670px;
+    }
+
+    .banner__title {
+        font-size: 65px;
+    }
+
+    .banner__text {
+        font-size: 27px;
+        padding: 15px 0 35px 0;
+    }
+
+    .banner_more {
+        font-size: 16px;
+        padding: 12px 70px;
+    }
+
+    .Aboutus {
+        padding: 50px 0 50px;
+
+    }
+
+    .Aboutus__nav {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .Aboutus__text0 {
+        font-size: 13px;
+    }
+
+    .Aboutus__text_p {
+        padding: 0;
+
+    }
+
+    .Aboutus__header {
+        padding: 0 0 30px 0;
+    }
+
+    .contacts__p {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:660px) {
+    .catalog__nav {
+        gap: 25px;
+    }
+
+    .catalog__title {
+        font-size: 20px;
+        margin: 20px 0 0 0;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .contacts__h2 {
+        text-align: center;
+    }
+
+    .contacts__wrap {
+        flex-wrap: wrap;
+        gap: 40px;
+justify-content: center;
+text-align: center;
+    }
+
+    .contacts__p {
+        width: 400px;
+    }
+
+    .contacts__infa {
+        gap: 4px;
+    }
+}
+
+@media screen and (max-width:591px) {
+
+    .header__nav {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+        height: 100%;
+    }
+
+    .search {
+        padding: 0 0 20px 0;
+    }
+
+    .search__text {
+        width: 150px;
+        height: 30px;
+        font-size: 13px;
+    }
+
+    .search__button {
+        width: 65px;
+        height: 30px;
+        font-size: 13px;
+    }
+
+    .banner {
+        height: 560px;
+    }
+
+    .banner__title {
+        font-size: 50px;
+    }
+
+    .banner__text {
+        font-size: 23px;
+        padding: 15px 0 30px 0;
+    }
+
+    .banner_more {
+        font-size: 14px;
+        padding: 11px 60px;
+    }
+
+
+}
+
+@media screen and (max-width:460px) {
+
+    .banner {
+        height: 500px;
+    }
+
+    .banner__title {
+        font-size: 45px;
+    }
+
+    .banner__text {
+        font-size: 20px;
+        padding: 10px 0 20px 0;
+    }
+
+    .banner_more {
+        font-size: 12px;
+        padding: 9px 40px;
+    }
+
+    .Aboutus__img img {
+        height: auto;
+    }
+}
